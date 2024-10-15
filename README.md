@@ -1,0 +1,1 @@
+The following Python code simulates a delay penalty system in a simplified blockchain. It detects miners who hold on to blocks before broadcasting them and applies a penalty to reduce their influence on future block creation.
